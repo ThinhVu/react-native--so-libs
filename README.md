@@ -4,7 +4,7 @@ so libs in react native
 NOTE: The size of each .so file is base on RN "0.63.3" in "arm64-v8a-debug" mode.
 
 
-1. libjsc.so: (3.1 MB) java script runtime (TBD)
+1. libjsc.so: (3.1 MB) JavaScriptCore (TBD)
 
 2. libflipper.so: (2.1 MB) Debugging tools
    + https://github.com/facebook/flipper
